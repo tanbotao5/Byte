@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+.west
+{
+    width:140px;
+    padding:10px;
+}
+
+table
+{
+	font-family:helvetica,tahoma,verdana,sans-serif;
+	font-size:12px;
+}
+table tr
+{
+	height:25px;
+	text-align:left;
+}
+
+table tr th
+{
+	border: 1px solid #DDDDDD;
+	background-color: #F4F4F4; 
+	font-weight: normal;
+}
+
+table tr td
+{
+	border: 1px dotted #CCCCCC;
+  	margin: 0;
+  	padding: 0;
+}
+
+.text
+{
+	width:90%;
+}
+
+body
+{
+	background-color:#FFF;
+}

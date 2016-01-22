@@ -1,0 +1,112 @@
+.icon-arrow_refresh{    
+	background: url('../static/images/arrow_refresh.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_refresh_small{
+	background: url('../static/images/arrow_refresh_small.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_up{    
+	background: url('../static/images/arrow_up.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_down{    
+	background: url('../static/images/arrow_down.png') no-repeat scroll center center transparent;
+}
+.icon-control_pause{    
+	background: url('../static/images/control_pause.png') no-repeat scroll center center transparent;
+}
+.icon-control_pause_blue{    
+	background: url('../static/images/control_pause_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_stop{    
+	background: url('../static/images/control_stop.png') no-repeat scroll center center transparent;
+}
+.icon-control_stop_blue{    
+	background: url('../static/images/control_stop_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_play{    
+	background: url('../static/images/control_play.png') no-repeat scroll center center transparent;
+}
+.icon-control_play_blue{    
+	background: url('../static/images/control_play_blue.png') no-repeat scroll center center transparent;
+}
+.icon-blank{
+	background:url('../static/images/mani.png') no-repeat center center;
+}
+.icon-add{
+	background:url('../static/images/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('../static/images/pencil.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('../static/images/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('../static/images/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('../static/images/tab_go.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('../static/images/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('../static/images/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('../static/images/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('../static/images/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+.panel-tool-close{
+	background:url('../static/images/cancel.png') no-repeat center center;
+}
+.pagination-first
+  {    background: url('../static/images/resultset_first.png') no-repeat scroll center center transparent;
+}
+.pagination-last
+  {    background: url('../static/images/resultset_last.png') no-repeat scroll center center transparent;
+}
+.pagination-next
+  {    background: url('../static/images/resultset_next.png') no-repeat scroll center center transparent;
+}
+.pagination-prev
+  {    background: url('../static/images/resultset_previous.png') no-repeat scroll center center transparent;
+}
+.icon-magnifier
+  {    background: url('../static/images/magnifier.png') no-repeat scroll center center transparent;
+}

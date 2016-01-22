@@ -1,0 +1,26 @@
+/* CSS Document */
+body {background:#0a76b0; margin:0px; padding:0px; font-size:12px; color:#ffffff; font-family:"宋体";}
+div {margin:0px auto;}
+ul,ol,dl,h1,h2,h3,h4,h5,h6,input,form,p {margin:0px; padding:0px; list-style:none;}
+.admin {width:1003px; height:613px; background-image:url(images/admin.jpg);}
+.login {width:285px; height:238px; float:left; margin-left:369px; display:inline; margin-top:232px;}
+.login dl {margin:18px 25px 25px 25px; padding:0px; list-style:none;}
+.login dl dt {width:200px; height:29px; line-height:29px; font-size:12px; color:#ffffff; float:left; margin-top:5px;}
+.login dl dt h1 {width:41px; height:29px; float:left; margin:0px; padding:0px; font-size:12px; font-weight:100;}
+.login dl dt h2 {width:159px; height:29px; float:left; margin:0px; padding:0px; font-size:12px; font-weight:100;}
+.login dl dt h3 {width:80px; height:29px; float:left;}
+.login dl dt h4 {width:120px; height:29px; line-height:29px; background:url(images/k.gif) left center no-repeat; padding-left:20px; font-size:12px; font-weight:100;}
+.login dl dt h4 a {font-size:12px; color:#FFFFFF; text-decoration:none;}
+.login dl dt h4 a:hover {font-size:12px; color:#FFFF00; text-decoration:none;}
+.quxiao {width:68px; height:28px; background-image:url(images/quxiao.gif); margin:0px; padding:0px; border:0px;}
+.login_name {width:127px; height:29px; font-size:14px; line-height:29px; color:#0a76b0; font-weight:bold; background:url(images/name.gif); border:0px; padding-left:32px;}
+.login_pass {width:127px; height:29px; font-size:14px; line-height:29px; color:#0a76b0; font-weight:bold; background:url(images/pass.gif); border:0px; padding-left:32px;}
+.login_rzm {width:127px; height:29px; font-size:14px; line-height:29px; color:#0a76b0; font-weight:bold; background:url(images/rzm.gif); border:0px; padding-left:32px;}
+.CopyRight {width:360px; height:30px; float:left; margin-left:340px; margin-top:67px; display:inline; color:#FFFFFF; font-size:12px; line-height:30px; text-align:center;}
+
+/* 弹出提示 */
+.pop{position:absolute;left:40%;top:40%;width:300px;height:120px;background:#bfe4f7;border:5px solid #0976af}
+.pop_head{position:relative;height:20px;background:#003366}
+.pop_head a{position:absolute;right:8px;line-height:20px;color:#bfe4f7;text-decoration:none}
+.pop_head a:hover{color:#ff3366;text-decoration:none}
+.pop_body{padding:8px; color:#003366; line-height:20px;}

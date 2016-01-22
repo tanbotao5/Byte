@@ -1,0 +1,36 @@
+$def with(todos)
+<html>
+<body>
+<center>
+<table>
+<tr ><font color="red" size=90>海淀分局可以远程烧写/修改摄像头列表：</font></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+$for todo in todos:
+    <tr>
+      <form action="/test.html" method="post">
+     <td>摄像头$todo.phy_addr</td>
+     <input type="text" name="id" value="$todo.abs_addr" style="display:none;">
+     <td>
+          <textarea  warp="off" style="overflow:hidden;width:230px;max-width:230px;height:32px;max-height:32px;resize: none;" disabled="disabled">
+     $todo.content
+         </textarea>
+     </td>
+     <td>----->烧写/修改---></td>
+     <td>
+       <textarea rows="2" cols="30" name=a  warp="physical" title ="每行16汉字，不显示字符用K代替,回车换行,左对齐" style="overflow:hidden;resize: none;" >
+       </textarea>
+     </td><td>
+     <input type="reset" value="重置" />
+     <input type="submit" value="确定" />
+     </td>
+     </form>
+   </tr>
+</table>
+</center>
+</body>
+</html>
+
